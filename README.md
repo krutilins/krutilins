@@ -1,6 +1,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/krutilins/)
 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-blue?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/krutilins)
+
 ## Statistics
 
 [![Krutilins's GitHub stats](https://github-readme-stats.vercel.app/api?username=krutilins&show_icons=true&theme=prussian)](https://github.com/krutilins/github-readme-stats)
