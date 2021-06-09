@@ -12,12 +12,9 @@
 
 ## 📌 Pinned Repositories
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=ng-progressive-todo&theme=prussian)](https://github.com/krutilins/ng-progressive-todo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=ng-notes&theme=prussian)](https://github.com/krutilins/ng-notes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=ng-blog&theme=prussian)](https://github.com/krutilins/ng-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=edu-step&theme=prussian)](https://github.com/krutilins/edu-step)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=ng-trello&theme=prussian)](https://github.com/krutilins/ng-trello)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krutilins&repo=js-lines98&theme=prussian)](https://github.com/krutilins/js-lines98)
-
 
 ## 💼 Skills
 
